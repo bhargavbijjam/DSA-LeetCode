@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0907-koko-eating-bananas](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
