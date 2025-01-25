@@ -1,18 +1,16 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         int missingNumber = -1;
-        for(int i=1;i<nums.size();i++){
-            if((nums[i-1]+1)!=nums[i]){
-                missingNumber = nums[i-1]+1;
-                break;
-            }
+        sort(nums.begin(),nums.end());
+        int low=0;
+        int high = nums.size()-1;
+        while(low<=high){
+            int mid = low + (high - low)/2;
+            if(nums[mid]==mid) low = mid +1;
+            else high = mid -1;
         }
-        if(nums[nums.size()-1]==nums.size()-1)
-            return nums.size();
-        else if(nums[0]!=0)
-            return 0;
-        return missingNumber;
+        return low;
+
     }
 };
