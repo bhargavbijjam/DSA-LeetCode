@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0907-koko-eating-bananas](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
+| [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 ## Sorting
 |  |
 | ------- |
