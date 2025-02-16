@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0078-subsets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
