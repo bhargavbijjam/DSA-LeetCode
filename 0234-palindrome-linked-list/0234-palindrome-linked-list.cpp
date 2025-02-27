@@ -11,16 +11,27 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode *temp = head;
-        stack<int> store;
-        while(temp){
-            store.push(temp->val);
-            temp = temp->next;
+        if(head->next == NULL) return true;
+        ListNode * slow = head;
+        ListNode * fast = head;
+        while(fast->next != NULL && fast->next->next!= NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        while(head){
-            if(head->val != store.top()) return false;
+        ListNode * newHead = slow->next;
+        ListNode * temp = newHead;
+        ListNode * prev = NULL;
+        while(temp){
+            ListNode *nextNode = temp->next;
+            temp->next = prev;
+            prev =temp;
+            temp = nextNode;
+        }
+        while(head != NULL and prev != NULL){
+            cout<<head->val<<" "<<prev->val<<endl;
+            if(head->val != prev->val) return false;
             head = head->next;
-            store.pop();
+            prev = prev->next;
         }
         return true;
     }
