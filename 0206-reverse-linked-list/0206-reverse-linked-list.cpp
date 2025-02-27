@@ -10,21 +10,14 @@
  */
 class Solution {
 public:
+    ListNode* helpReverseList(ListNode *head,ListNode *prev){
+        if(head == NULL) return prev;
+        ListNode *nextNode = head->next;
+        head->next = prev;
+        return helpReverseList(nextNode,head);
+    }
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL) return nullptr;
-        if(head->next == NULL) return head;
-        ListNode *temp = head->next;
-        ListNode *prev = head;
-        prev->next = nullptr;
-        ListNode *front = temp->next;
-        while(temp != NULL){
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-            if(temp!=NULL) front = temp->next; 
-        }
-        return prev;
-
-
+        ListNode *prev = NULL;
+        return helpReverseList(head,prev);
     }
 };
