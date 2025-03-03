@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [2145-grid-game](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2145-grid-game) |
 ## Database
 |  |
