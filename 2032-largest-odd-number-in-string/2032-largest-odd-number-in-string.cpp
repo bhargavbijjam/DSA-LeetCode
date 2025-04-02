@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool odd(char alpha){
-        if(alpha == '1'||alpha == '3'||alpha == '5'||alpha == '7'||alpha == '9') return true;
+        if((alpha-'0')%2!=0) return true;
         else return false;
     }
     string largestOddNumber(string num) {
