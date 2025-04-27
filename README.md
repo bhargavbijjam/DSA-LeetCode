@@ -172,14 +172,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
