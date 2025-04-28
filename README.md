@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
