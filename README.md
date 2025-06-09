@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
