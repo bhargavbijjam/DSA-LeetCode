@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
