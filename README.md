@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2145-grid-game](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Trie
 |  |
 | ------- |
