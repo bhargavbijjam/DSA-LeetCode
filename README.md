@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Linked List
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
