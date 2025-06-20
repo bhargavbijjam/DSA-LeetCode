@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String Matching
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
