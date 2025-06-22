@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
