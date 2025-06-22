@@ -3,19 +3,9 @@ class Solution(object):
         res = []
         i=0
         while i<len(s):
-            if(i+k-1 < len(s) ):
-                res.append(s[i:i+k])
-            else:
-                break
+            res.append(s[i:i+k])
             i+=k
-        strng = []
-        while i<len(s):
-            strng.append(s[i])
-            i+=1
-        while(len(strng)%k!=0):
-            strng.append(fill)
-        if(len(strng)!=0):
-            res.append(''.join(strng))
+        res[-1]+=fill*(k-len(res[-1]))
         return res
 
             
