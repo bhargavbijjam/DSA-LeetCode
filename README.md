@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
