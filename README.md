@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2145-grid-game) |
 ## Prefix Sum
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
