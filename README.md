@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [3447-clear-digits](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/3447-clear-digits) |
