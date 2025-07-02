@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0724-find-pivot-index) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1364-tuple-with-same-product) |
