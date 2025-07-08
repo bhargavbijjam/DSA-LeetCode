@@ -7,9 +7,7 @@ class Solution(object):
             
         for i in range(start,len(nums)):
             nums[start],nums[i] = nums[i],nums[start]
-            start+=1
-            self.solve(start,nums,res)
-            start-=1
+            self.solve(start+1,nums,res)
             nums[start],nums[i] = nums[i],nums[start]
     
     def permute(self, nums):
