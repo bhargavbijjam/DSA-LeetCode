@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bhargavbijjam/DSA-LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
